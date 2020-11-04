@@ -61,7 +61,7 @@ li {
 
 
 .dbloc {
-  display: block;
+  display: inline-block;
 }
 
 a {
